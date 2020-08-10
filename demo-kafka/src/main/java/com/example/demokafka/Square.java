@@ -12,4 +12,7 @@ public class Square extends Shape {
     public void show(){
         System.out.println("这是一个Square");
     }
+    public void show1(){
+        System.out.println("这是一个Square");
+    }
 }
