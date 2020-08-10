@@ -8,4 +8,7 @@ public class Circle extends Shape {
     public void draw() {
         System.out.println("Inside Circle::draw() method.");
     }
+    public void show(){
+        System.out.println("----这是一个Circle");
+    }
 }
